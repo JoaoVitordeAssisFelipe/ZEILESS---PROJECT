@@ -19,6 +19,7 @@ HTML5: Estrutura semântica do site.
 CSS3: Estilização e animações elegantes para uma melhor experiência de usuário.
 
 🎯 Objetivos
+
 O principal objetivo deste projeto é representar uma marca fictícia com um design que reflete seu caráter premium e inovador. O foco está na apresentação dos produtos e na criação de uma identidade visual forte para a ZEILESS.
 
 📷 Pré-visualizações
