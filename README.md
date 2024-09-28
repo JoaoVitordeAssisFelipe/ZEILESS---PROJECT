@@ -9,12 +9,14 @@ Este projeto é uma representação digital da marca ZEILESS, trazendo uma inter
 ✨ Detalhes
 
 História da Marca: A narrativa sobre a jornada de Victor Zeiles e sua busca pela perfeição na relojoaria.
+
 Catálogo de Produtos: Exibição de relógios com detalhes visuais, refletindo o compromisso da ZEILESS com a qualidade.
 
 🛠️ Tecnologias Utilizadas
 
 HTML5: Estrutura semântica do site.
-CSS3: Estilização e responsividade, com animações elegantes para uma melhor experiência de usuário.
+
+CSS3: Estilização e animações elegantes para uma melhor experiência de usuário.
 
 🎯 Objetivos
 O principal objetivo deste projeto é representar uma marca fictícia com um design que reflete seu caráter premium e inovador. O foco está na apresentação dos produtos e na criação de uma identidade visual forte para a ZEILESS.
