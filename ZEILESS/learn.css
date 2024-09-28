@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@keyframes fadeInUp {
+    to {
+        opacity: 1; /* Tornar visível */
+        transform: translateY(0); /* Movimentar para a posição original */
+    }
+}
+body,html{
+    margin: 0px;
+    width: 100%;
+    height: 100vh;
+}
+.container {
+    padding: 5%;
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    color: white;
+    height: 100vh;
+    background-image: url("img/desktop.png");
+    background-repeat: no-repeat; /* Evita a duplicação */
+    background-size: cover; /* Ajusta a imagem para cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+}
+
+.container h1 {
+    font-size: 96px;
+    opacity: 0; /* Iniciar invisível */
+    transform: translateY(-50px); /* Começar mais acima */
+    animation: fadeInUp 2s ease forwards; /* Aplicar a animação */
+}
+.container p {
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    opacity: 0; /* Iniciar invisível */
+    transform: translateY(50px); /* Começar mais abaixo */
+    animation: fadeInUp 2s ease 0.5s forwards; /* Atraso de 0.5s na animação */
+}
+#section-main-zeiless{
+    display: flex;
+    align-items: center;
+}
+#section-main-zeiless .text{
+    text-align:justify;
+    padding: 20px 150px;
+    height: 100vh;
+}
+#section-main-zeiless .text h1{
+    font-size: 65px;
+}
+#section-main-zeiless p{
+    font-family: "Poppins",sans-serif;
+    font-size: 18px;
+}
+#section-main-golden{
+    display: flex;
+}
+#section-main-golden .text{
+    text-align:justify;
+    padding: 20px 80px;
+    height: 100vh;
+}
+#section-main-golden .text h1{
+    font-family: "Poppins",sans-serif;
+    font-size: 40px;
+}
+#section-main-golden .text p{
+    font-family: "Poppins",sans-serif;
+    font-size: 18px;
+}
+
+footer{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 40px 30px;
+    text-align: center;
+    justify-content: space-around;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
