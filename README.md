@@ -3,13 +3,16 @@
 ZEILESS - A Legacy of Precision and Elegance
 
 🚀 Sobre o Projeto
+
 Este projeto é uma representação digital da marca ZEILESS, trazendo uma interface limpa e moderna para contar a história, valores e produtos da empresa. O site foi desenvolvido com foco em mostrar minhas habilidades de front-end.
 
 ✨ Detalhes
+
 História da Marca: A narrativa sobre a jornada de Victor Zeiles e sua busca pela perfeição na relojoaria.
 Catálogo de Produtos: Exibição de relógios com detalhes visuais, refletindo o compromisso da ZEILESS com a qualidade.
 
 🛠️ Tecnologias Utilizadas
+
 HTML5: Estrutura semântica do site.
 CSS3: Estilização e responsividade, com animações elegantes para uma melhor experiência de usuário.
 
